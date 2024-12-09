@@ -2,14 +2,14 @@
 
 The Text Sentiment Analysis API is a Python-based project designed to provide an easy and efficient way to analyze the sentiment of textual data. Powered by the TextBlob library, this project serves as a foundation for developers, researchers, and enthusiasts looking to incorporate sentiment analysis into their applications. It allows you to evaluate the emotional tone and objectivity of any text through its polarity and subjectivity scores.
 
-### What is Sentiment Analysis?
+## What is Sentiment Analysis?
 
 Sentiment analysis is a natural language processing (NLP) technique used to determine the emotional tone conveyed by a piece of text. By analyzing polarity and subjectivity, you can understand:
 
 - Polarity: Whether the sentiment is positive, neutral, or negative (ranges from -1 to 1).
 - Subjectivity: Whether the text expresses objective facts (0) or subjective opinions (1).
 
-### Why Choose This API?
+## Why Choose This API?
 
 This project offers:
 
@@ -18,9 +18,8 @@ This project offers:
 - **Efficiency:** Lightweight and fast processing, making it suitable for small to medium-sized applications.
 - **Versatility:** Can be used in a wide variety of applications, such as social media analysis, product reviews, and customer feedback systems.
 
----
 
-### Key Features
+## Key Features
 - Analyze the sentiment (polarity and subjectivity) of any given text.
 - Based on the popular TextBlob library, ensuring reliability and accuracy.
 - Highly modular, making it easy to extend and integrate into larger projects.
