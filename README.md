@@ -31,14 +31,14 @@ This API is perfect for developers and data enthusiasts looking to quickly imple
 ## Installation
 1. Clone this repository:
 
-    ```
+    ```bash
     git clone https://github.com/marwan-ahmed-23/text-sentiment-analysis-api.git
     cd text-sentiment-analysis-api
     ```
 
 2. Install the dependencies:
 
-    ```
+    ```bash
     pip install -r requirements.txt
     ```
 
@@ -46,7 +46,7 @@ This API is perfect for developers and data enthusiasts looking to quickly imple
 
 Here's an example of how to use the Sentiment Analysis API:
 
-```
+```bash
 from src.sentiment_analysis import SentimentAnalyzer
 
 text = "I love programming in Python!"
