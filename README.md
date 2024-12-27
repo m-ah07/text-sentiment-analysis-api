@@ -58,7 +58,7 @@ print(f"Subjectivity: {result['subjectivity']}")
 ```
 
 ## 📂 Directory Structure
-
+```plaintext
 text-sentiment-analysis-api/
 ├── src/
 │   └── sentiment_analysis.py
@@ -67,6 +67,7 @@ text-sentiment-analysis-api/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+```
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
