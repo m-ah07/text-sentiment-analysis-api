@@ -32,7 +32,7 @@ This API is perfect for developers and data enthusiasts looking to quickly imple
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/text-sentiment-analysis-api.git
+    git clone https://github.com/m-ah07/text-sentiment-analysis-api.git
     cd text-sentiment-analysis-api
     ```
 
